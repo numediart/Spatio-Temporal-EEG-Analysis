@@ -13,7 +13,7 @@ The considered inputs for the two considered datasets are proposed in the corres
 
 During the training, the metrics evolution are reported in runs directory with tensorboard (https://www.tensorflow.org/tensorboard/) and the final training results are saved in res/. 
 
-Due to issues with limited size for files in github. Feature map examples have been published on [Figshare](https://figshare.com/articles/dataset/Spatio-Temporal-EEG-Analysis/15164133), it is necessary to approve the License from each considered datasets. For other analysis please refer to both datasets:
+Due to issues with limited size for files in github. Feature map examples have been published on [Figshare](https://figshare.com/articles/dataset/Spatio-Temporal-EEG-Analysis/15164133), to proceed the code download them and placed them in the corresponding directory depending on the dataset. More it is necessary to approve the License from each considered datasets. For other analysis please refer to both datasets:
 * PhyDAA [Paper](https://ieeexplore.ieee.org/abstract/document/9361688) - [Download Link](https://zenodo.org/record/4558990)
 * Sustained Attention during Driving Task [Paper](https://www.nature.com/articles/s41597-019-0027-4) - [Download Link](https://figshare.com/articles/dataset/Multi-channel_EEG_recordings_during_a_sustained-attention_driving_task/6427334)
 
